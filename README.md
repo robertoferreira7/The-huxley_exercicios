@@ -1,4 +1,4 @@
-# The-huxley_exercicios
+# The-huxley-exercicios
 Repositorio de exercicios do The Huxley
 
 ## Links uteis 
