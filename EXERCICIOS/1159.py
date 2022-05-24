@@ -1,0 +1,5 @@
+packs = int(input())
+distribuicao = int(packs / 3)
+dispensados = int(packs - (distribuicao * 3))
+print (distribuicao)
+print (dispensados)
